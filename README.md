@@ -1,5 +1,5 @@
 # Small-circuit-simulation
-A circuit simulation mini program written by students from Xi'an Jiaotong University's 22nd grade Qian School, which can solve any sinusoidal steady-state circuit using the node voltage method.
+A circuit simulation mini program written by students from Xi'an Jiaotong University's 22nd grade Qian Xuesen Hornors College, which can solve any sinusoidal steady-state circuit using the node voltage method.
 # Acknowledgments
 We would like to thank the following individuals and organizations for their contributions to this project:
 
