@@ -3,7 +3,7 @@ A circuit simulation mini program written by students from Xi'an Jiaotong Univer
 # Acknowledgments
 We would like to thank the following individuals and organizations for their contributions to this project:
 
-Circuit Computation: Yang Yike, Lin Shengxiang
+Circuit Computation: Yang Yike
 
 Graphical User Interface: Liu Ruixun, Yang Jintian, Zhang Yueqian, Li Yanyi
 
@@ -11,7 +11,7 @@ Graphical User Interface and Computational Program Interface: Zhang Yueqian
 
 Oscilloscope: Liu Ruixun
 
-Data Collection: Wang Mingzhi
+Data Collection: Wang Mingzhi, Lin Shengxiang
 
 Program Testing and Classic Circuit Validation: Zhang Yueqian, Wu Meiyi, Liang Lidan
 
