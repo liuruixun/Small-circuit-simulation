@@ -4,12 +4,19 @@ A circuit simulation mini program written by students from Xi'an Jiaotong Univer
 We would like to thank the following individuals and organizations for their contributions to this project:
 
 Circuit Computation: Yang Yike, Lin Shengxiang
+
 Graphical User Interface: Liu Ruixun, Yang Jintian, Zhang Yueqian, Li Yanyi
+
 Graphical User Interface and Computational Program Interface: Zhang Yueqian
+
 Oscilloscope: Liu Ruixun
+
 Data Collection: Wang Mingzhi
+
 Program Testing and Classic Circuit Validation: Zhang Yueqian, Wu Meiyi, Liang Lidan
+
 PowerPoint Presentation: Li Zhaoxing
+
 Advisor: Professor Wang Shuhong
 
 
